@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScoreSystem.js">
+    <Files>
+      <File FileName="Assets/Scripts/zhora.js" Line="34" Column="28" />
+      <File FileName="Assets/Scripts/motion.js" Line="35" Column="10" />
+      <File FileName="Assets/Scripts/squirrel.js" Line="33" Column="12" />
+      <File FileName="Assets/Scripts/pigeon.js" Line="36" Column="2" />
+      <File FileName="Assets/Scripts/ScoreSystem.js" Line="3" Column="1" />
+      <File FileName="Assets/Scripts/points.js" Line="14" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
